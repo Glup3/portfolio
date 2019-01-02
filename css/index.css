@@ -16,6 +16,16 @@
   margin-bottom: 30px;
 }
 
+footer ul a {
+  color: black;
+  text-decoration: underline;
+}
+
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating) {
+  color: black;
+}
+
+
 @media screen and (max-width: 670px) {
   .parallax-container {
     height: 100px;
