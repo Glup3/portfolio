@@ -1,0 +1,13 @@
+.profile-pic {
+  display: block;
+  width: 150px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+
+}
+
+.parallax-container {
+  height: 400px;
+}
