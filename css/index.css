@@ -9,9 +9,15 @@
 }
 
 .parallax-container {
-  height: 200px;
+  height: 400px;
 }
 
 .technologies {
   margin-bottom: 30px;
+}
+
+@media screen and (max-width: 670px) {
+  .parallax-container {
+    height: 100px;
+  }
 }
