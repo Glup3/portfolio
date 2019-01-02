@@ -1,2 +1,2 @@
-# portfolio
+# Portfolio
 A web portfolio about me
