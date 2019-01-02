@@ -9,5 +9,9 @@
 }
 
 .parallax-container {
-  height: 400px;
+  height: 200px;
+}
+
+.technologies {
+  margin-bottom: 30px;
 }
